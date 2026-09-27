@@ -1,0 +1,19 @@
+# AI FILE MAP: Актуальные raw-ссылки на GitHub
+# Формат: Логическое_имя_файла = URL
+# Обновляется пользователем при добавлении/переименовании файлов.
+# Архитектор напоминает об обновлении. Исполнители (Qwen3.8) читают напрямую.
+
+00_Profile = https://raw.githubusercontent.com/xbinbip/health/main/00_Profile.md
+01_Goals = https://raw.githubusercontent.com/xbinbip/health/main/01_Goals.md
+02_Constraints = https://raw.githubusercontent.com/xbinbip/health/main/02_Constraints.md
+03_Current_Plan = https://raw.githubusercontent.com/xbinbip/health/main/03_Current_Plan.md
+04_Lab_Results = https://raw.githubusercontent.com/xbinbip/health/main/04_Lab_Results.md
+05_Symptoms_Log = https://raw.githubusercontent.com/xbinbip/health/main/05_Symptoms_Log.md
+06_Training_Log = https://raw.githubusercontent.com/xbinbip/health/main/06_Training_Log.md
+07_Nutrition_Log = https://raw.githubusercontent.com/xbinbip/health/main/07_Nutrition_Log.md
+08_Medications_Supplements = https://raw.githubusercontent.com/xbinbip/health/main/08_Medications_Supplements.md
+09_Questions_for_Doctors = https://raw.githubusercontent.com/xbinbip/health/main/09_Questions_for_Doctors.md
+10_Weekly_Review = https://raw.githubusercontent.com/xbinbip/health/main/10_Weekly_Review.md
+11_Emergency_Protocol = https://raw.githubusercontent.com/xbinbip/health/main/11_Emergency_Protocol.md
+12_Resources = https://raw.githubusercontent.com/xbinbip/health/main/12_Resources.md
+13_Decision_Log = https://raw.githubusercontent.com/xbinbip/health/main/13_Decision_Log.md
